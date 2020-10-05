@@ -1,52 +1,24 @@
-
-# リポジトリ名
-
-クイズアプリとなります。
+# quiz_qpp
+クイズアプリを作成しました。
+①クイズが出題されます
+②回答する
+③答えが出る、正常判定
+④分岐、最後の問題か(もし、問題が残っていれば①に戻る)
+⑤最後の問題が終われば結果画面へ進む
+上記5点を実装しました。
 
 
 ## デモ
 
-![デモ](https://image-url.gif)
-
-
-## 使い方
-
-DEMOの実行方法など、"Webアプリ"の基本的な使い方を説明
-
-1. 使い方
-2. 使い方
-3. 使い方
+![デモ](https://gyazo.com/62caa6da62aa8a40797803e794f0ba57)
 
 
 ## 環境
-
-* 要件
-* 要件
-* 要件
-
-
-## 注意事項
-
-注意点などがあれば書く
+HTML / CSS / JavaScript / GitHub / Visual Studio Code /
 
 
 ## 文責
 
-作成情報を列挙する
+* 三好彩斗
+* [E-mail](s82.miyoshi.ayato@gmail.com)
 
-* 作成者
-* 所属
-* E-mail
-* [@twitter_username](https://twitter.com/twitter_username)
-
-
-## ライセンス
-
-ライセンスを明示する
-
-"リポジトリ名" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
-
-## 参考文献
-
-参考にした情報源（サイト・論文）などの情報、リンク
