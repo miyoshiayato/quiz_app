@@ -6,7 +6,7 @@
 ④分岐、最後の問題か(もし、問題が残っていれば①に戻る)  
 ⑤最後の問題が終われば結果画面へ進む  
 上記5点を実装しました。  
-![フローチャート](<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/624f75fd-4f27-4c12-9ecb-70768cbdd86e" id="M3gCoryMix7Q"></iframe></div>)
+![フローチャート](https://lucid.app/documents/embeddedchart/624f75fd-4f27-4c12-9ecb-70768cbdd86e)
 
 
 ## デモ
