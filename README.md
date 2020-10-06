@@ -9,8 +9,7 @@
 
 
 ## デモ
-
-![デモ](https://gyazo.com/62caa6da62aa8a40797803e794f0ba57)
+![デモ](https://i.gyazo.com/b455ae53fb839d7e9ed050d86bf70f44.gif)
 
 
 ## 環境
@@ -18,7 +17,6 @@ HTML / CSS / JavaScript / GitHub / Visual Studio Code /
 
 
 ## 文責
-
 * 三好彩斗
-* [E-mail](s82.miyoshi.ayato@gmail.com)
+* [E-mail]  s82.miyoshi.ayato@gmail.com
 
